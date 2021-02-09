@@ -6,7 +6,7 @@ export default class RouletteGun extends Component {
     };
 
     state = {
-        chamber: null,
+        chamber: null,  
         spinningTheChamber: false,
     };
 
